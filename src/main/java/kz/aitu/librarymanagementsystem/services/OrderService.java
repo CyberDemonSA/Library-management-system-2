@@ -1,7 +1,6 @@
 package kz.aitu.librarymanagementsystem.services;
 
 import kz.aitu.librarymanagementsystem.models.Order;
-import kz.aitu.librarymanagementsystem.models.User;
 import kz.aitu.librarymanagementsystem.repositories.OrderRepositoryInterface;
 import kz.aitu.librarymanagementsystem.services.interfaces.OrderServiceInterface;
 import org.springframework.stereotype.Service;

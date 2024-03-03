@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
-@RequestMapping("orders_of_books")
+@RequestMapping("orders")
 public class OrderController {
 
     private final OrderServiceInterface service;
